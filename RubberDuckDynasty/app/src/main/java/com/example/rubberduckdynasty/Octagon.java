@@ -1,4 +1,6 @@
-import com.example.shape
+package com.example.rubberduckdynasty;
+
+import com.example.shape;
 
 public class Octagon extends shape {
     public Octagon(int x, int y) {
